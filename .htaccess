@@ -1,0 +1,10 @@
+# Enable the rewrite engine
+RewriteEngine On
+
+# Remove .html extension from URLs (including subfolders)
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^([a-zA-Z0-9/_-]+)$ $1.html [L]
+
+# Remove .php extension from URLs (including subfolders)
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([a-zA-Z0-9/_-]+)$ $1.php [QSA,L]
