@@ -6,7 +6,7 @@
                     </button>
 
                     
-                    <a class="navbar-brand font-weight-semibold" href="./index.html">
+                    <a class="navbar-brand font-weight-semibold" href="https://www.cange.com.br">
                         <img class="img-fluid" src="./images/logos/cange_logo.png" alt="Cange">
                     </a>
                     <button class="btn btn-danger btn-sm d-lg-none">Sign Up</button>
@@ -59,8 +59,8 @@
                             </li>
                         </ul>
 
-                        <a  id="print-one" href="https://app.cange.me/" class="btn btn-white btn-sm d-none d-lg-block border hover-lift mx-2 waves-effect">Login</a>
-                        <a href="https://app.cange.me/onboarding" class="btn btn-standard btn-sm d-none d-lg-block border-0 hover-lift mx-2 waves-effect">Sign Up</a>
+                        <a  id="print-one" href="https://app.cange.me/" class="btn btn-white btn-sm d-none d-lg-block border hover-lift mx-2 waves-effect">Entrar</a>
+                        <a href="https://app.cange.me/onboarding" class="btn btn-standard btn-sm d-none d-lg-block border-0 hover-lift mx-2 waves-effect">Teste agora</a>
                     </div>
                 </div>
             </nav>

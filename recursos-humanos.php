@@ -29,6 +29,7 @@ include "head.php";
                                 <a href="javascript:;" class="btn btn-white ml-sm-2 waves-effect" data-aos="fade-up" data-aos-delay="200"><span>Agendar demonstração</span></a>
                             </div>
 
+                            <!--
                             <span class="d-block small font-weight-semibold mb-2" data-aos="fade-up" data-aos-delay="200">Our top clients:</span>
 
                             <div class="row justify-content-center justify-content-lg-start" data-aos="fade-up" data-aos-delay="250">
@@ -42,6 +43,7 @@ include "head.php";
                                     <svg class="text-gray-400" viewBox="0 0 2761 991" xmlns="http://www.w3.org/2000/svg"><path d="M326.558 759C247.442 759 170 702.045 170 573.476c0-128.987 77.442-185.105 156.558-185.105 38.93 0 69.489 10.051 91.256 24.29l-23.86 52.349c-14.652-10.47-36.42-17.17-58.187-17.17-47.72 0-91.255 37.69-91.255 124.799 0 87.108 44.79 125.636 91.255 125.636 21.768 0 43.535-6.7 58.186-17.17l23.861 53.605C395.209 749.787 365.488 759 326.558 759zm272.512 0c-100.884 0-156.558-79.989-156.558-185.524s55.255-185.105 156.558-185.105c100.883 0 156.558 79.151 156.558 185.105C755.628 679.011 699.953 759 599.07 759zm0-313.255c-56.093 0-83.721 50.255-83.721 126.894 0 76.638 27.628 127.312 83.72 127.312 56.094 0 83.722-50.674 83.722-127.312 0-76.639-27.628-126.894-83.721-126.894zm253.674-114.748c-23.86 0-43.116-18.427-43.116-41.042 0-22.614 19.256-41.041 43.116-41.041s43.116 18.427 43.116 41.041c0 22.615-19.674 41.042-43.116 41.042zm-36.418 64.493h72.837v355.972h-72.837V395.49zm358.325 355.972V514.008c0-41.46-25.116-67.425-74.511-67.425-26.373 0-50.652 4.606-65.303 10.47V751.88h-72V413.498c35.582-14.657 81.21-25.127 136.884-25.127 99.628 0 147.767 43.554 147.767 118.936v244.574h-72.837v-.42zm264.14 7.538c-46.047 0-91.675-11.307-119.721-25.127V233h72v171.704c17.163-7.957 44.79-14.658 69.488-14.658 91.675 0 154.047 66.169 154.047 175.054 0 134.432-69.489 193.9-175.814 193.9zM1448 446.583c-19.674 0-43.116 4.606-56.93 11.726v233.685c10.465 4.606 30.977 9.213 51.488 9.213 57.349 0 99.628-39.785 99.628-130.662.419-77.895-36.419-123.962-94.186-123.962zM1810.512 759c-102.14 0-154.047-41.46-154.047-111.817 0-99.253 105.488-116.842 213.07-122.705v-22.615c0-44.81-29.721-60.724-75.349-60.724-33.488 0-74.512 10.47-98.372 21.777l-18.419-49.418c28.465-12.563 76.605-25.127 124.326-25.127 84.977 0 136.884 33.084 136.884 121.03v224.472c-25.535 13.82-77.86 25.127-128.093 25.127zm59.441-186.361c-72.837 3.769-145.255 10.05-145.255 73.288 0 37.69 28.883 60.724 83.72 60.724 23.024 0 50.233-3.769 61.535-9.213v-124.8zM2101.023 759c-41.442 0-84.976-11.307-110.93-25.127l24.28-55.28c18.418 11.307 57.348 23.033 84.557 23.033 38.93 0 64.884-19.265 64.884-48.999 0-32.246-27.21-44.81-63.21-58.211-47.72-18.008-100.883-39.785-100.883-106.373 0-58.63 45.628-99.672 124.744-99.672 43.116 0 78.698 10.47 103.814 25.127l-22.605 50.255c-15.907-10.05-47.72-20.94-73.255-20.94-37.675 0-58.605 19.684-58.605 45.649 0 32.247 26.372 43.554 61.535 56.955 49.395 18.427 104.232 38.948 104.232 108.467C2239.163 717.12 2190.186 759 2101.023 759zm489.35-187.199l-236.513 33.084c7.117 64.075 48.977 96.322 108.838 96.322 35.581 0 74.093-8.795 98.372-21.777l20.93 54.024c-27.628 14.657-75.349 25.127-124.326 25.127-112.186 0-174.976-72.032-174.976-185.524 0-108.885 60.697-185.105 160.325-185.105 92.512 0 147.35 60.725 147.35 156.628.836 8.794.836 18.008 0 27.221zm-147.768-130.662c-55.256 0-91.675 42.297-92.93 116.423l172.465-23.87c-.838-61.982-32.233-92.553-79.535-92.553z" fill="currentColor" fill-rule="nonzero"></path></svg>
                                 </div>
                             </div>
+                            -->
                         </div>
 
                         <div class="col-lg-6">
@@ -49,16 +51,12 @@ include "head.php";
                               <div class="col px-2 mb-5">
                                 <div class="mb-3" data-aos="fade-up">
                                     <picture>
-                                        <source srcset="./images/ui/widgets-11.webp" type="image/webp">
-                                        <source srcset="./images/ui/widgets-11.png" type="image/png"> 
-                                        <img src="images/ui/widgets-11.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
+                                        <img src="images/rh/rh-cange-01.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
                                     </picture>
                                 </div>
                                 <div data-aos="fade-up" data-aos-delay="100">
                                     <picture>
-                                        <source srcset="./images/ui/widgets-09.webp" type="image/webp">
-                                        <source srcset="./images/ui/widgets-09.png" type="image/png"> 
-                                        <img src="images/ui/widgets-09.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
+                                        <img src="images/rh/rh02.jpg" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
                                     </picture>
                                 </div>
                               </div>
@@ -66,16 +64,12 @@ include "head.php";
                               <div class="col px-2">
                                 <div class="mb-3" data-aos="fade-up" data-aos-delay="200">
                                     <picture>
-                                        <source srcset="./images/ui/widgets-13.webp" type="image/webp">
-                                        <source srcset="./images/ui/widgets-13.png" type="image/png"> 
-                                        <img src="images/ui/widgets-13.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
+                                        <img src="images/rh/rh08.jpg" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
                                     </picture>
                                 </div>
                                 <div data-aos="fade-up" data-aos-delay="300">
                                     <picture>
-                                        <source srcset="./images/ui/widgets-08.webp" type="image/webp">
-                                        <source srcset="./images/ui/widgets-08.png" type="image/png"> 
-                                        <img src="images/ui/widgets-08.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
+                                        <img src="images/rh/rh-cange-05.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
                                     </picture>
                                 </div>
                               </div>
@@ -83,16 +77,12 @@ include "head.php";
                               <div class="col px-2 mb-5">
                                 <div class="mb-3" data-aos="fade-up" data-aos-delay="400">
                                     <picture>
-                                        <source srcset="./images/ui/widgets-12.webp" type="image/webp">
-                                        <source srcset="./images/ui/widgets-12.png" type="image/png"> 
-                                        <img src="images/ui/widgets-12.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
+                                        <img src="images/rh/rh-cange-07.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
                                     </picture>
                                 </div>
                                 <div data-aos="fade-up" data-aos-delay="500" data-aos-offset="-50">
                                     <picture>
-                                        <source srcset="./images/ui/widgets-10.webp" type="image/webp">
-                                        <source srcset="./images/ui/widgets-10.png" type="image/png"> 
-                                        <img src="images/ui/widgets-10.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
+                                        <img src="images/rh/rh-cange-08.png" alt="" class="img-fluid shadow-sm hover-lift border-light rounded">
                                     </picture>
                                 </div>
                               </div>
@@ -172,385 +162,14 @@ include "head.php";
                 </div>
             </section>
 
-            <!-- Analytics & Features -->
-            <section class="pt-6 pt-lg-8">
-                <div class="container">
-                    <div class="row justify-content-center text-center mb-6">
-                        <div class="col-xl-7 col-lg-10">
-                            <h2 class="font-weight-bold">Project Control with One<br class="d-none d-sm-block"> Click Optimised Communication</h2>
-                            <p class="text-muted mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam delectus at, asperiores, assumenda accusantium commodi nam officiis quam deserunt hic</p>
-                        </div>
-                    </div>
-
-                    <div class="row" data-aos="fade-up" data-aos-delay="50">
-                        <div class="col-12">
-                            <ul class="nav nav-flat nav-flat-primary" id="featureTab" role="tablist">
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link active" id="featureOneTab" data-toggle="tab" href="#featureOne" role="tab">Create single <br class="d-none d-sm-block">source of truth</a>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="featureTwoTab" data-toggle="tab" href="#featureTwo" role="tab">Enhance project <br class="d-none d-sm-block">transparency</a>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="featureThreeTab" data-toggle="tab" href="#featureThree" role="tab">Integrates with the <br class="d-none d-sm-block">tools you need</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="bg-light-primary pb-6" data-aos="fade-up" data-aos-delay="50">
-                    <div class="container">
-                        <div class="tab-content pt-5" id="featureTabContent">
-                            <div class="tab-pane fade show active" id="featureOne" role="tabpanel">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-5 mb-lg-0">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-primary hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <path d="M4,4 L11.6314229,2.5691082 C11.8750185,2.52343403 12.1249815,2.52343403 12.3685771,2.5691082 L20,4 L20,13.2830094 C20,16.2173861 18.4883464,18.9447835 16,20.5 L12.5299989,22.6687507 C12.2057287,22.8714196 11.7942713,22.8714196 11.4700011,22.6687507 L8,20.5 C5.51165358,18.9447835 4,16.2173861 4,13.2830094 L4,4 Z" fill="currentColor" opacity="0.3"></path>
-                                                        <path d="M14.5,11 C15.0522847,11 15.5,11.4477153 15.5,12 L15.5,15 C15.5,15.5522847 15.0522847,16 14.5,16 L9.5,16 C8.94771525,16 8.5,15.5522847 8.5,15 L8.5,12 C8.5,11.4477153 8.94771525,11 9.5,11 L9.5,10.5 C9.5,9.11928813 10.6192881,8 12,8 C13.3807119,8 14.5,9.11928813 14.5,10.5 L14.5,11 Z M12,9 C11.1715729,9 10.5,9.67157288 10.5,10.5 L10.5,11 L13.5,11 L13.5,10.5 C13.5,9.67157288 12.8284271,9 12,9 Z" fill="currentColor"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-                                        
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-14.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-14.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-14.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-primary hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <path d="M4.00246329,12.2004927 L13,14 L13,4.06189375 C16.9463116,4.55399184 20,7.92038235 20,12 C20,16.418278 16.418278,20 12,20 C7.64874861,20 4.10886412,16.5261253 4.00246329,12.2004927 Z" fill="currentColor" opacity="0.3"></path>
-                                                        <path d="M3.0603968,10.0120794 C3.54712466,6.05992157 6.91622084,3 11,3 L11,11.6 L3.0603968,10.0120794 Z" fill="currentColor"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-15.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-15.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-15.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="featureTwo" role="tabpanel">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-5 mb-lg-0">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-primary hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <polygon points="0 0 24 0 24 24 0 24"></polygon>
-                                                        <rect fill="currentColor" opacity="0.3" x="2" y="4" width="20" height="16" rx="2"></rect>
-                                                        <polygon fill="currentColor" opacity="0.3" points="4 20 10.5 11 17 20"></polygon>
-                                                        <polygon fill="currentColor" points="11 20 15.5 14 20 20"></polygon>
-                                                        <circle fill="currentColor" opacity="0.3" cx="18.5" cy="8.5" r="1.5"></circle>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-16.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-16.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-16.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-primary hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <path d="M5.5,4 L9.5,4 C10.3284271,4 11,4.67157288 11,5.5 L11,6.5 C11,7.32842712 10.3284271,8 9.5,8 L5.5,8 C4.67157288,8 4,7.32842712 4,6.5 L4,5.5 C4,4.67157288 4.67157288,4 5.5,4 Z M14.5,16 L18.5,16 C19.3284271,16 20,16.6715729 20,17.5 L20,18.5 C20,19.3284271 19.3284271,20 18.5,20 L14.5,20 C13.6715729,20 13,19.3284271 13,18.5 L13,17.5 C13,16.6715729 13.6715729,16 14.5,16 Z" fill="currentColor"></path>
-                                                        <path d="M5.5,10 L9.5,10 C10.3284271,10 11,10.6715729 11,11.5 L11,18.5 C11,19.3284271 10.3284271,20 9.5,20 L5.5,20 C4.67157288,20 4,19.3284271 4,18.5 L4,11.5 C4,10.6715729 4.67157288,10 5.5,10 Z M14.5,4 L18.5,4 C19.3284271,4 20,4.67157288 20,5.5 L20,12.5 C20,13.3284271 19.3284271,14 18.5,14 L14.5,14 C13.6715729,14 13,13.3284271 13,12.5 L13,5.5 C13,4.67157288 13.6715729,4 14.5,4 Z" fill="currentColor" opacity="0.3"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-17.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-17.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-17.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="featureThree" role="tabpanel">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-5 mb-lg-0">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-primary hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <path d="M19,11 L21,11 C21.5522847,11 22,11.4477153 22,12 C22,12.5522847 21.5522847,13 21,13 L19,13 C18.4477153,13 18,12.5522847 18,12 C18,11.4477153 18.4477153,11 19,11 Z M3,11 L5,11 C5.55228475,11 6,11.4477153 6,12 C6,12.5522847 5.55228475,13 5,13 L3,13 C2.44771525,13 2,12.5522847 2,12 C2,11.4477153 2.44771525,11 3,11 Z M12,2 C12.5522847,2 13,2.44771525 13,3 L13,5 C13,5.55228475 12.5522847,6 12,6 C11.4477153,6 11,5.55228475 11,5 L11,3 C11,2.44771525 11.4477153,2 12,2 Z M12,18 C12.5522847,18 13,18.4477153 13,19 L13,21 C13,21.5522847 12.5522847,22 12,22 C11.4477153,22 11,21.5522847 11,21 L11,19 C11,18.4477153 11.4477153,18 12,18 Z" fill="currentColor" fill-rule="nonzero" opacity="0.3"></path>
-                                                        <circle fill="currentColor" opacity="0.3" cx="12" cy="12" r="2"></circle>
-                                                        <path d="M12,17 C14.7614237,17 17,14.7614237 17,12 C17,9.23857625 14.7614237,7 12,7 C9.23857625,7 7,9.23857625 7,12 C7,14.7614237 9.23857625,17 12,17 Z M12,19 C8.13400675,19 5,15.8659932 5,12 C5,8.13400675 8.13400675,5 12,5 C15.8659932,5 19,8.13400675 19,12 C19,15.8659932 15.8659932,19 12,19 Z" fill="currentColor" fill-rule="nonzero"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-18.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-18.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-18.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-primary hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <path d="M7.67514486,18.731359 C9.6803634,17.3851601 11,15.0966889 11,12.5 C11,9.58867922 9.34119765,7.06479249 6.91718054,5.82192739 C8.29918974,4.68360845 10.0697622,4 12,4 C16.418278,4 20,7.581722 20,12 C20,16.418278 16.418278,20 12,20 C10.4066753,20 8.92214267,19.5342055 7.67514486,18.731359 Z" fill="currentColor" opacity="0.3"></path>
-                                                        <path d="M6.39268296,17.7059641 C4.91588435,16.254539 4,14.2342276 4,12 C4,10.0680854 4.68479668,8.29611365 5.82489501,6.91357974 C7.72637261,8.04773008 9,10.1251292 9,12.5 C9,14.6298467 7.97562469,16.5204376 6.39268296,17.7059641 Z" fill="currentColor"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-19.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-19.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-19.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Analytics & Features -->
-            <section class="pt-6 pt-lg-8">
-                <div class="container">
-                    <div class="row justify-content-center text-center mb-6">
-                        <div class="col-xl-7 col-lg-10">
-                            <h2 class="font-weight-bold">Visibility Needs Make More <br class="d-none d-sm-block">Informed Decisions in Real-time</h2>
-                            <p class="text-muted mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam delectus at, asperiores, assumenda accusantium commodi nam officiis quam deserunt hic</p>
-                        </div>
-                    </div>
-
-                    <div class="row" data-aos="fade-up" data-aos-delay="50">
-                        <div class="col-12">
-                            <ul class="nav nav-flat nav-flat-success" id="featureTab2" role="tablist">
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link active" id="featureFourTab" data-toggle="tab" href="#featureFour" role="tab">One click away <br class="d-none d-sm-block">communication</a>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="featureFiveTab" data-toggle="tab" href="#featureFive" role="tab">Breath taking <br class="d-none d-sm-block">communication</a>
-                                </li>
-                                <li class="nav-item" role="presentation">
-                                    <a class="nav-link" id="featureSixTab" data-toggle="tab" href="#featureSix" role="tab">Keep track of <br class="d-none d-sm-block">project budget</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="bg-light-success pb-6" data-aos="fade-up" data-aos-delay="50">
-                    <div class="container">
-                        <div class="tab-content pt-5" id="featureTabContent2">
-                            <div class="tab-pane fade show active" id="featureFour" role="tabpanel">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-5 mb-lg-0">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-success hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <rect fill="currentColor" x="2" y="6" width="13" height="12" rx="2"></rect>
-                                                        <path d="M22,8.4142119 L22,15.5857848 C22,16.1380695 21.5522847,16.5857848 21,16.5857848 C20.7347833,16.5857848 20.4804293,16.4804278 20.2928929,16.2928912 L16.7071064,12.7071013 C16.3165823,12.3165768 16.3165826,11.6834118 16.7071071,11.2928877 L20.2928936,7.70710477 C20.683418,7.31658067 21.316583,7.31658098 21.7071071,7.70710546 C21.8946433,7.89464181 22,8.14899558 22,8.4142119 Z" fill="currentColor" opacity="0.3"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-14.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-14.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-14.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-success hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <rect fill="currentColor" x="3" y="13" width="18" height="7" rx="2"></rect>
-                                                        <path d="M17.4029496,9.54910207 L15.8599014,10.8215022 C14.9149052,9.67549895 13.5137472,9 12,9 C10.4912085,9 9.09418404,9.67104182 8.14910121,10.8106159 L6.60963188,9.53388797 C7.93073905,7.94090645 9.88958759,7 12,7 C14.1173586,7 16.0819686,7.94713944 17.4029496,9.54910207 Z M20.4681628,6.9788888 L18.929169,8.25618985 C17.2286725,6.20729644 14.7140097,5 12,5 C9.28974232,5 6.77820732,6.20393339 5.07766256,8.24796852 L3.54017812,6.96885102 C5.61676443,4.47281829 8.68922234,3 12,3 C15.3153667,3 18.3916375,4.47692603 20.4681628,6.9788888 Z" fill="currentColor" fill-rule="nonzero" opacity="0.3"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-15.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-15.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-15.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="featureFive" role="tabpanel">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-5 mb-lg-0">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-success hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <path d="M5,2 L19,2 C20.1045695,2 21,2.8954305 21,4 L21,6 C21,7.1045695 20.1045695,8 19,8 L5,8 C3.8954305,8 3,7.1045695 3,6 L3,4 C3,2.8954305 3.8954305,2 5,2 Z M11,4 C10.4477153,4 10,4.44771525 10,5 C10,5.55228475 10.4477153,6 11,6 L16,6 C16.5522847,6 17,5.55228475 17,5 C17,4.44771525 16.5522847,4 16,4 L11,4 Z M7,6 C7.55228475,6 8,5.55228475 8,5 C8,4.44771525 7.55228475,4 7,4 C6.44771525,4 6,4.44771525 6,5 C6,5.55228475 6.44771525,6 7,6 Z" fill="currentColor" opacity="0.3"></path>
-                                                        <path d="M5,9 L19,9 C20.1045695,9 21,9.8954305 21,11 L21,13 C21,14.1045695 20.1045695,15 19,15 L5,15 C3.8954305,15 3,14.1045695 3,13 L3,11 C3,9.8954305 3.8954305,9 5,9 Z M11,11 C10.4477153,11 10,11.4477153 10,12 C10,12.5522847 10.4477153,13 11,13 L16,13 C16.5522847,13 17,12.5522847 17,12 C17,11.4477153 16.5522847,11 16,11 L11,11 Z M7,13 C7.55228475,13 8,12.5522847 8,12 C8,11.4477153 7.55228475,11 7,11 C6.44771525,11 6,11.4477153 6,12 C6,12.5522847 6.44771525,13 7,13 Z" fill="currentColor"></path>
-                                                        <path d="M5,16 L19,16 C20.1045695,16 21,16.8954305 21,18 L21,20 C21,21.1045695 20.1045695,22 19,22 L5,22 C3.8954305,22 3,21.1045695 3,20 L3,18 C3,16.8954305 3.8954305,16 5,16 Z M11,18 C10.4477153,18 10,18.4477153 10,19 C10,19.5522847 10.4477153,20 11,20 L16,20 C16.5522847,20 17,19.5522847 17,19 C17,18.4477153 16.5522847,18 16,18 L11,18 Z M7,20 C7.55228475,20 8,19.5522847 8,19 C8,18.4477153 7.55228475,18 7,18 C6.44771525,18 6,18.4477153 6,19 C6,19.5522847 6.44771525,20 7,20 Z" fill="currentColor"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-16.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-16.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-16.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-success hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <path d="M7,14 C7,16.7614237 9.23857625,19 12,19 C14.7614237,19 17,16.7614237 17,14 C17,12.3742163 15.3702913,9.86852817 12,6.69922982 C8.62970872,9.86852817 7,12.3742163 7,14 Z M12,21 C8.13400675,21 5,17.8659932 5,14 C5,11.4226712 7.33333333,8.08933783 12,4 C16.6666667,8.08933783 19,11.4226712 19,14 C19,17.8659932 15.8659932,21 12,21 Z" fill="currentColor" fill-rule="nonzero"></path>
-                                                        <path d="M12,4 C16.6666667,8.08933783 19,11.4226712 19,14 C19,17.8659932 15.8659932,21 12,21 L12,4 Z" fill="currentColor"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-17.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-17.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-17.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="featureSix" role="tabpanel">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-5 mb-lg-0">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-success hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <polygon points="0 0 24 0 24 24 0 24"></polygon>
-                                                        <path d="M6,5 L18,5 C19.6568542,5 21,6.34314575 21,8 L21,17 C21,18.6568542 19.6568542,20 18,20 L6,20 C4.34314575,20 3,18.6568542 3,17 L3,8 C3,6.34314575 4.34314575,5 6,5 Z M5,17 L14,17 L9.5,11 L5,17 Z M16,14 C17.6568542,14 19,12.6568542 19,11 C19,9.34314575 17.6568542,8 16,8 C14.3431458,8 13,9.34314575 13,11 C13,12.6568542 14.3431458,14 16,14 Z" fill="currentColor"></path>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-18.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-18.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-18.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="d-flex align-items-center">
-                                            <span>
-                                                <svg class="text-success hw-48 mr-2" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <rect x="0" y="0" width="24" height="24"></rect>
-                                                        <polygon fill="currentColor" opacity="0.3" points="5 3 19 3 23 8 1 8"></polygon>
-                                                        <polygon fill="currentColor" points="23 8 12 20 1 8"></polygon>
-                                                    </g>
-                                                </svg>
-                                            </span>
-                                            <div>
-                                                <h6 class="font-weight-bold mb-1">Breath taking dashboard</h6>
-                                                <p class="text-muted mb-0">Enhance project transparency  with an easy to use API</p>
-                                            </div>
-                                        </div>
-
-                                        <picture>
-                                            <source srcset="./images/ui/widgets-19.webp" type="image/webp">
-                                            <source srcset="./images/ui/widgets-19.jpg" type="image/jpg"> 
-                                            <img src="./images/ui/widgets-19.jpg" alt="" class="border rounded w-100 mt-5">
-                                        </picture>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
             <!-- Services -->
             <section class="py-6">        
                 <div class="container">
                     <div class="row justify-content-center text-center mb-5">
                         <div class="col-lg-6 col-sm-12">
-                            <h6 class="font-weight-medium font-size-sm text-uppercase text-muted">Our Services</h6>
-                            <h2 class="font-weight-bold">What We Deliver & <span class="d-none d-sm-block"> How We Drive Impact</span></h2>
+                            <h6 class="font-weight-medium font-size-sm text-uppercase text-muted">Plug-and-play</h6>
+                            <h2 class="font-weight-bold">Principais fluxos</h2>
                         </div>
                     </div>
                     <div class="row">
@@ -558,26 +177,11 @@ include "head.php";
                             <div class="card mb-5">
                                 <div class="card-body">
                                     <div class="mb-4">
-                                        <svg width="55" height="48" viewBox="0 0 145 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                            <g transform="translate(0.000000, 40.000000)">
-                                                <path d="M122.1,81.1 L17.4,81.1 C13.3,81.1 10,77.8 10,73.7 L10,7.6 C10,3.5 13.3,0.2 17.4,0.2 L122.1,0.2 C126.2,0.2 129.5,3.5 129.5,7.6 L129.5,73.7 C129.5,77.8 126.2,81.1 122.1,81.1 Z" fill="#3973F4" fill-rule="nonzero"></path>
-                                                <path d="M129.5,42 L129.5,73.7 C129.5,77.8 126.2,81.1 122.1,81.1 L17.4,81.1 C13.3,81.1 10,77.8 10,73.7 L10,39.3" stroke="#1676EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M52.3,0.2 L52.5,0.2" stroke="#1676EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M135.5,14.5 L92.6,14.5 C88.4,14.5 84.4,15.9 81.2,18.6 L70,27.8 C66.8,30.4 62.7,31.9 58.6,31.9 L9.8,31.9 C4.4,31.9 0.2,36.7 1,42.1 L9.9,89.7 C10.6,94.2 14.4,97.4 18.9,97.4 L122.9,97.4 C127.4,97.4 131.2,94.2 131.9,89.8 L144.4,24.9 C145.1,19.5 141,14.5 135.5,14.5 Z" fill="#4988FD" fill-rule="nonzero"></path>
-                                            </g>
-                                            <g transform="translate(24.000000, 0.000000)" fill-rule="nonzero">
-                                                <path d="M95.4,30.8 L67.5,0.3 L5.5,0.3 C2.5,0.3 0.1,2.7 0.1,5.7 L0.1,71.9 L33.5,71.9 C37.7,71.9 41.7,70.5 44.9,67.8 L48.6,64.8 L17,64.8 C16.2,64.8 15.5,64.1 15.5,63.3 C15.5,62.5 16.2,61.8 17,61.8 L52.3,61.8 L56.2,58.6 C59.4,56 63.5,54.5 67.6,54.5 L95.8,54.5 L95.4,30.8 Z M17.8,16 L55,16 C56.1,16 57,16.9 57,18 C57,19.1 56.1,20 55,20 L17.8,20 C16.7,20 15.8,19.1 15.8,18 C15.8,16.9 16.7,16 17.8,16 Z M17.8,25.8 L32,25.8 C33.1,25.8 34,26.7 34,27.8 C34,28.9 33.1,29.8 32,29.8 L17.8,29.8 C16.7,29.8 15.8,28.9 15.8,27.8 C15.8,26.7 16.7,25.8 17.8,25.8 Z M39.5,50.9 L17.4,50.9 C16.6,50.9 15.9,50.2 15.9,49.4 C15.9,48.6 16.6,47.9 17.4,47.9 L39.5,47.9 C40.3,47.9 41,48.6 41,49.4 C41,50.2 40.4,50.9 39.5,50.9 Z M77.4,50.9 L48.8,50.9 C48,50.9 47.3,50.2 47.3,49.4 C47.3,48.6 48,47.9 48.8,47.9 L77.4,47.9 C78.2,47.9 78.9,48.6 78.9,49.4 C78.9,50.2 78.2,50.9 77.4,50.9 Z M73,30.8 C69.7,30.8 66.7,27.9 66.7,24.6 L66.7,0.4 L94.6,30.8 L73,30.8 Z" fill="#DFECFD"></path>
-                                                <path d="M15.5,63.3 C15.5,64.1 16.2,64.8 17,64.8 L48.6,64.8 L52.3,61.8 L17,61.8 C16.2,61.8 15.5,62.4 15.5,63.3 Z" fill="#C5DCFA"></path>
-                                                <path d="M77.4,47.9 L48.8,47.9 C48,47.9 47.3,48.6 47.3,49.4 C47.3,50.2 48,50.9 48.8,50.9 L77.4,50.9 C78.2,50.9 78.9,50.2 78.9,49.4 C78.9,48.6 78.2,47.9 77.4,47.9 Z" fill="#C5DCFA"></path>
-                                                <path d="M39.5,47.9 L17.4,47.9 C16.6,47.9 15.9,48.6 15.9,49.4 C15.9,50.2 16.6,50.9 17.4,50.9 L39.5,50.9 C40.3,50.9 41,50.2 41,49.4 C41,48.6 40.4,47.9 39.5,47.9 Z" fill="#C5DCFA"></path>
-                                                <path d="M17.8,20 L55,20 C56.1,20 57,19.1 57,18 C57,16.9 56.1,16 55,16 L17.8,16 C16.7,16 15.8,16.9 15.8,18 C15.8,19.1 16.7,20 17.8,20 Z" fill="#4988FD"></path>
-                                                <path d="M17.8,29.8 L32,29.8 C33.1,29.8 34,28.9 34,27.8 C34,26.7 33.1,25.8 32,25.8 L17.8,25.8 C16.7,25.8 15.8,26.7 15.8,27.8 C15.8,28.9 16.7,29.8 17.8,29.8 Z" fill="#4988FD"></path>
-                                                <path d="M66.7,24.6 C66.7,27.9 69.7,30.8 73,30.8 L94.6,30.8 L66.7,0.4 L66.7,24.6 Z" fill="#C5DCFA"></path>
-                                            </g>
-                                        </svg>
+                                        <img src="images/rh/icon-salario.png" alt="" class="img-fluid hover-lift border-light rounded">
+</svg>
                                     </div>
                                     
-                                    <h6 class="font-weight-semibold">Scoping Session</h6>
+                                    <h6 class="font-weight-semibold">Anúncio de vagas</h6>
                                     <p class="text-muted font-size-sm mb-0">Lorem ipsum dolor sitameem adipiscing cnsectetur adimod tur adipiscing</p>
                                 </div>
                             </div>

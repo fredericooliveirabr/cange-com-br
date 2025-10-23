@@ -576,13 +576,7 @@ include "head.php";
                                     <td class="text-center"><span class="say-yes"></td>
                                 </tr>
 
-                                <tr>
-                                    <th class="font-weight-normal" scope="row">Registros por cadastro</th>
-                                    <td class="text-center">-</td>
-                                    <td class="text-center">3k registros</td>
-                                    <td class="text-center">20k registros</td>
-                                    <td class="text-center">100k registros</td>
-                                </tr>
+                                
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Workspaces</th>
