@@ -67,7 +67,7 @@ include "head.php";
                                             </div>
         
                                             <div class="media-body text-muted">
-                                                15 dias totalmente grátis
+                                                7 dias totalmente grátis
                                             </div>
                                         </div>
                                     </div>
@@ -185,7 +185,7 @@ include "head.php";
                                         <p>R$29,99/mês no anual</p>
                                         <p>Valor por usuário</p>
 
-                                        <button class="btn btn-primary waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">15 dias grátis</button>
+                                        <button class="btn btn-primary waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">7 dias grátis</button>
 
                                     </div>
 
@@ -304,7 +304,7 @@ include "head.php";
                                         <h3 class="h1 font-weight-bold">R$75<span class="font-size-lg">/mês</span></h3>
                                         <p>R$49,99/mês no anual</p>
                                         <p>Valor por usuário</p>
-                                        <button class="btn btn-primary waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">15 dias grátis</button>
+                                        <button class="btn btn-primary waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">7 dias grátis</button>
                                     </div>
 
                                 </div>
@@ -812,10 +812,10 @@ include "head.php";
                                         <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-white btn-sm waves-effect mt-3" role="button">Comece agora</a>
                                     </th>
                                     <th scope="col" class="text-center text-nowrap">
-                                        <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-white btn-sm waves-effect mt-3" role="button">15 dias grátis</a>
+                                        <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-white btn-sm waves-effect mt-3" role="button">7 dias grátis</a>
                                     </th>
                                     <th scope="col" class="text-center text-nowrap">
-                                        <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-primary btn-sm waves-effect mt-3" role="button">15 dias grátis</a>
+                                        <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-primary btn-sm waves-effect mt-3" role="button">7 dias grátis</a>
                                     </th>
                                     <th scope="col" class="text-center text-nowrap">
                                         <a href="https://wa.me/551151948185" class="btn btn-white btn-sm waves-effect mt-3" role="button">Falar com vendas</a>

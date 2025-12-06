@@ -13,7 +13,7 @@
                                 <a href="https://app.cange.me/onboarding" class="btn btn-primary waves-effect hover-lift mx-2 mb-2 mb-sm-0" data-aos="fade-up" data-aos-delay="100">Teste agora</a>
                             
 
-                                <a href="https://wa.me/551151948185" class="btn btn-white hover-lift mx-2 waves-effect" data-aos="fade-up" data-aos-delay="150">Fale com vendas</a>
+                                <a href="https://wa.me/551151948185" class="btn btn-white hover-lift mx-2 waves-effect" data-aos="fade-up" data-aos-delay="150"><img src="./images/icons/whatsapp-icon.png" alt="WhatsApp" style="width: 20px; height: 20px;"> Fale com um especialista</a>
                             </div>
                         </div>
 

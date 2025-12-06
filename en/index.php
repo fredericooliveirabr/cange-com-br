@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 
 <?php
 include "head.php"; 
@@ -8,7 +8,7 @@ include "head.php";
 <body>
     <div class="main-content">
          <?php
-         include "nav-basic.php";
+         include "nav.php";
          ?>
 
         <!-- Main content -->

@@ -64,3 +64,17 @@
                     </div>
                 </div>
             </nav>
+
+            <!-- Black November Cange 25% OFF 
+            <section class="py-6">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <a href="https://app.cange.me/onboarding/black-november-25-off-br" >
+                                <img src="./images/marketing/CANGE_11ADS Nov-BannerAcimaHero.png" alt="Black November Cange 25% OFF" style="border-radius: 10px; width: 90%; height: auto;" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+             End Black November Cange 25% OFF -->
