@@ -1,4 +1,4 @@
-<!-- Intro -->
+<!-- Intro 
             <section class="py-6">
                 <svg class="hero-rounded-shape-top-left img-fluid" xmlns="http://www.w3.org/2000/svg" width="1250" height="1250" viewBox="0 0 1250 1250"><defs><linearGradient id="h56ga" x1="575.85" x2="951.84" y1="569.07" y2="1154.96" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2363cb" stop-opacity=".17"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></linearGradient></defs><g><g><path fill="url(#h56ga)" d="M625 1250c345.178 0 625-279.822 625-625S970.178 0 625 0 0 279.822 0 625s279.822 625 625 625z"/></g></g></svg>
 
@@ -25,14 +25,65 @@
                         </div>
                     </div>
                 </div>
+            </section>-->
+
+            <!-- Intro -->
+            <section class="py-6 bg-light-primary overflow-hidden">
+                <div class="container">
+                    <div class="row align-items-center justify-content-between mb-5 mb-lg-8">
+                        <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0 text-center text-lg-left">
+                            <div class="badge badge-soft-primary badge-pill px-2 py-1 mb-3" data-aos="fade-up">Execution over improvisation</div>
+                            <h1 class="font-weight-bold mb-4" data-aos="fade-up" data-aos-delay="50">Organize e execute processos críticos <br><span class="text-primary">De ponta a ponta</span></h1>
+                            <p class="lead text-muted" data-aos="fade-up" data-aos-delay="100">Automação, no-code e Agentes de IA para empresas que precisam escalar com controle</p>
+
+                            <div class="d-flex justify-content-center justify-content-lg-start flex-column flex-sm-row pt-4">
+                            <a href="https://app.cange.me/onboarding" class="btn btn-primary waves-effect hover-lift mx-2 mb-2 mb-sm-0" data-aos="fade-up" data-aos-delay="100">Comece agora</a>   
+                            <a href="https://wa.me/551151948185" class="btn btn-primary waves-effect hover-lift mx-2 mb-2 mb-sm-0" data-aos="fade-up" data-aos-delay="100" data-aos="fade-up" data-aos-delay="150"><img src="./images/icons/whatsapp-icon.png" alt="WhatsApp" style="width: 20px; height: 20px;"> Agendar demo</a>    
+                                
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <div class="hero-img-group-1 text-center">
+                            <video 
+                                autoplay 
+                                loop 
+                                muted 
+                                playsinline
+                                class="embed-responsive embed-responsive-21by9">
+                                
+                                <source src="./images/home/home.mp4" type="video/mp4">
+                                
+                                Seu navegador não suporta vídeos HTML5.
+                                </video>
+                            </div>
+                        </div>
+                        </div>
+                        
+                        <div class="row row-cols-2 row-cols-sm-3 row-cols-lg-6 justify-content-center text-center">
+                        <div class="col my-3" data-aos="fade-up" data-aos-delay="50">
+                            <img src="./images/home/crisdu_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                        </div>
+                        <div class="col my-3" data-aos="fade-up" data-aos-delay="100">
+                            <img src="./images/home/bbs_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                        </div>
+                        <div class="col my-3" data-aos="fade-up" data-aos-delay="150">
+                            <img src="./images/home/auxiliadora_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                        </div>
+                        <div class="col my-3" data-aos="fade-up" data-aos-delay="200">
+                            <img src="./images/home/killing_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                        </div>
+                        <div class="col my-3" data-aos="fade-up" data-aos-delay="250">
+                            <img src="./images/home/gateware_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                        </div>
+                        <div class="col my-3" data-aos="fade-up" data-aos-delay="300">
+                            <img src="./images/home/docile_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                        </div>
+                    </div>
+                </div>
             </section>
 
-            <!-- Shape -->
-            <div class="text-light-primary">
-                <svg preserveAspectRatio="none" viewBox="0 0 2000 150" xmlns="http://www.w3.org/2000/svg">
-                  <polygon fill="currentColor" points="2000 0 2000 150 0 150"></polygon>
-                </svg>
-            </div>
+           
 
             <!-- Analysis & Info -->
             <section class="py-6 bg-light-primary">

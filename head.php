@@ -2,14 +2,14 @@
 
     <!-- Metatags -->
 <meta charset=utf-8>
-<title>Cange | Plataforma no-code com IA para automação de processos</title>
-<meta name="description" content="Cange é a plataforma SaaS no-code que organiza processos, automatiza tarefas, cria agentes de IA e aumenta a produtividade da sua empresa. Teste grátis.">
+<title>Cange | Automação com IA para empresas que precisam escalar sem perder controle</title>
+<meta name="description" content="O Cange organiza processos críticos, elimina retrabalho e aplica agentes de IA na operação real — com visibilidade, governança e resultado mensurável.">
 <meta name="keywords" content="Cange, automação de processos, plataforma no-code, IA, inteligência artificial, produtividade empresarial, dashboards, relatórios, controle de tarefas">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://www.cange.com.br/">
 
-<meta property="og:title" content="Cange | Plataforma no-code com IA para automação e produtividade">
+<meta property="og:title" content="Cange | Automação com IA para empresas que precisam escalar sem perder controle">
 <meta property="og:description" content="Solução completa para automatização de processos, geração de relatórios e gestão com IA. Crie fluxos e dashboards sem programação.">
 <meta property="og:url" content="https://www.cange.com.br/">
 <meta property="og:type" content="website">

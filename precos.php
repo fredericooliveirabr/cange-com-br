@@ -101,81 +101,7 @@ include "head.php";
             <!-- Plans -->
             <section class="pb-6">
                 <div class="container">
-                    <div class="row row-cols-xl-4 row-cols-md-2 row-cols-1 mb-5">
-                        <div class="col mb-4 mb-xl-0" data-aos="fade-up">
-                            <div class="card card-accent-top accent-secondary shadow-smooth-1 border border-hover-secondary hover-scale h-100">
-                                <div class="card-body">
-                                    <div class="text-center">
-                                        <h2 class="font-weight-bold my-5">Basic</h2>
-                                        <h3 class="h1 font-weight-bold">R$0</h3>
-                                        <p>free forever</p>
-                                        <p>Até 3 usuários</p>
-
-                                        <button class="btn btn-white waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">Comece agora!</button>
-
-                                        
-                                    </div>
-                                </div>
-
-                                <div class="card-body border-top">
-                                    <ul class="list-unstyled">
-                                        
-                                        <li class="d-flex align-items-xl-center mb-3 mb-lg-4">
-                                            <svg class="text-success mr-3" enable-background="new 0 0 24 24" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g>
-                                                <path fill="currentColor" d="m9.707 19.121c-.187.188-.442.293-.707.293s-.52-.105-.707-.293l-5.646-5.647c-.586-.586-.586-1.536 0-2.121l.707-.707c.586-.586 1.535-.586 2.121 0l3.525 3.525 9.525-9.525c.586-.586 1.536-.586 2.121 0l.707.707c.586.586.586 1.536 0 2.121z"/></g>
-                                            </svg>
-                                            <div class="content">
-                                                <p class="font-size-sm line-height-1 font-weight-medium mb-0">3 fluxos</p>
-                                            </div>
-                                        </li>
-                                         <li class="d-flex align-items-xl-center mb-3 mb-lg-4">
-                                            <svg class="text-success mr-3" enable-background="new 0 0 24 24" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g>
-                                                <path fill="currentColor" d="m9.707 19.121c-.187.188-.442.293-.707.293s-.52-.105-.707-.293l-5.646-5.647c-.586-.586-.586-1.536 0-2.121l.707-.707c.586-.586 1.535-.586 2.121 0l3.525 3.525 9.525-9.525c.586-.586 1.536-.586 2.121 0l.707.707c.586.586.586 1.536 0 2.121z"/></g>
-                                            </svg>
-                                            <div class="content">
-                                                <p class="font-size-sm line-height-1 font-weight-medium mb-0">1 cadastro</p>
-                                            </div>
-                                        </li>
-                                         <li class="d-flex align-items-xl-center mb-3 mb-lg-4">
-                                            <svg class="text-success mr-3" enable-background="new 0 0 24 24" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g>
-                                                <path fill="currentColor" d="m9.707 19.121c-.187.188-.442.293-.707.293s-.52-.105-.707-.293l-5.646-5.647c-.586-.586-.586-1.536 0-2.121l.707-.707c.586-.586 1.535-.586 2.121 0l3.525 3.525 9.525-9.525c.586-.586 1.536-.586 2.121 0l.707.707c.586.586.586 1.536 0 2.121z"/></g>
-                                            </svg>
-                                            <div class="content">
-                                                <p class="font-size-sm line-height-1 font-weight-medium mb-0">1 conexão</p>
-                                                <small>Contecte fluxo com cadastro</small>
-                                            </div>
-                                        </li>
-                                         <li class="d-flex align-items-xl-center mb-3 mb-lg-4">
-                                            <svg class="text-success mr-3" enable-background="new 0 0 24 24" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g>
-                                                <path fill="currentColor" d="m9.707 19.121c-.187.188-.442.293-.707.293s-.52-.105-.707-.293l-5.646-5.647c-.586-.586-.586-1.536 0-2.121l.707-.707c.586-.586 1.535-.586 2.121 0l3.525 3.525 9.525-9.525c.586-.586 1.536-.586 2.121 0l.707.707c.586.586.586 1.536 0 2.121z"/></g>
-                                            </svg>
-                                            <div class="content">
-                                                <p class="font-size-sm line-height-1 font-weight-medium mb-0">3GB de armazenamento</p>
-                                            </div>
-                                        </li>
-                                         <li class="d-flex align-items-xl-center mb-3 mb-lg-4">
-                                            <svg class="text-success mr-3" enable-background="new 0 0 24 24" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g>
-                                                <path fill="currentColor" d="m9.707 19.121c-.187.188-.442.293-.707.293s-.52-.105-.707-.293l-5.646-5.647c-.586-.586-.586-1.536 0-2.121l.707-.707c.586-.586 1.535-.586 2.121 0l3.525 3.525 9.525-9.525c.586-.586 1.536-.586 2.121 0l.707.707c.586.586.586 1.536 0 2.121z"/></g>
-                                            </svg>
-                                            <div class="content">
-                                                <p class="font-size-sm line-height-1 font-weight-medium mb-0">50 cartões/mês</p>
-                                            </div>
-                                        </li>
-                                         <li class="d-flex align-items-xl-center mb-3 mb-lg-4">
-                                            <svg class="text-success mr-3" enable-background="new 0 0 24 24" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g>
-                                                <path fill="currentColor" d="m9.707 19.121c-.187.188-.442.293-.707.293s-.52-.105-.707-.293l-5.646-5.647c-.586-.586-.586-1.536 0-2.121l.707-.707c.586-.586 1.535-.586 2.121 0l3.525 3.525 9.525-9.525c.586-.586 1.536-.586 2.121 0l.707.707c.586.586.586 1.536 0 2.121z"/></g>
-                                            </svg>
-                                            <div class="content">
-                                                <p class="font-size-sm line-height-1 font-weight-medium mb-0">Templates grátis</p>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                   
-
-                                </div>
-                            </div>
-                        </div>
-
+                    <div class="row row-cols-xl-4 row-cols-md-2 row-cols-1 mb-5 justify-content-center">
                         <div class="col mb-4 mb-xl-0" data-aos="fade-up" data-aos-delay="50">
                             <div class="card card-accent-top accent-warning shadow-smooth-1 border border-hover-warning hover-scale h-100">
                                 <div class="card-body">
@@ -185,7 +111,7 @@ include "head.php";
                                         <p>R$29,99/mês no anual</p>
                                         <p>Valor por usuário</p>
 
-                                        <button class="btn btn-primary waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">7 dias grátis</button>
+                                        <button class="btn btn-primary waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">Comece agora</button>
 
                                     </div>
 
@@ -199,7 +125,7 @@ include "head.php";
                                                 <path fill="currentColor" d="m9.707 19.121c-.187.188-.442.293-.707.293s-.52-.105-.707-.293l-5.646-5.647c-.586-.586-.586-1.536 0-2.121l.707-.707c.586-.586 1.535-.586 2.121 0l3.525 3.525 9.525-9.525c.586-.586 1.536-.586 2.121 0l.707.707c.586.586.586 1.536 0 2.121z"/></g>
                                             </svg>
                                             <div class="content">
-                                                <p class="font-size-sm line-height-1 font-weight-medium mb-0">Todos recursos do Basic</p>
+                                                <p class="font-size-sm line-height-1 font-weight-medium mb-0">Mínimo 4 usuários</p>
                                             </div>
                                         </li>
                                         <li class="d-flex align-items-xl-center mb-3 mb-lg-4">
@@ -304,7 +230,7 @@ include "head.php";
                                         <h3 class="h1 font-weight-bold">R$75<span class="font-size-lg">/mês</span></h3>
                                         <p>R$49,99/mês no anual</p>
                                         <p>Valor por usuário</p>
-                                        <button class="btn btn-primary waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">7 dias grátis</button>
+                                        <button class="btn btn-primary waves-effect my-5" onclick="window.location.href='https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null'">Comece agora</button>
                                     </div>
 
                                 </div>
@@ -511,11 +437,6 @@ include "head.php";
                                         </div>
                                     </th>
                                     <th scope="col" class="text-center text-nowrap">
-                                        <div class="h4 font-weight-bold mb-0">Basic</div>
-                                        <p class="font-weight-normal text-muted">free forever</p>
-                                        <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-white btn-sm waves-effect mt-3" role="button">Começar</a>
-                                    </th>
-                                    <th scope="col" class="text-center text-nowrap">
                                         <div class="h4 font-weight-bold mb-0">Plus</div>
                                         <p class="font-weight-normal text-muted">R$45/mês<br>R$ 29,99/mês no anual</p>
                                         <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-white btn-sm waves-effect mt-3" role="button">Começar</a>
@@ -535,14 +456,14 @@ include "head.php";
                             <tbody>
                                 <tr class="border-bottom bg-light">
                                     <th scope="row" class="h6 py-3 font-weight-semibold text-nowrap border-0 mb-0">Essenciais</th>
-                                    <td class="py-3 border-0"></td>
+                                    
                                     <td class="py-3 border-0"></td>
                                     <td class="py-3 border-0"></td>
                                     <td class="py-3 border-0"></td>
                                 </tr>
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Fluxo de processos ou projetos</th>
-                                    <td class="text-center">3</td>
+                                    
                                     <td class="text-center">15</td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -550,7 +471,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Cadastros</th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center">10</td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -560,7 +481,7 @@ include "head.php";
                                     <th class="font-weight-normal" scope="row">Cartões
                                         <span class="badge badge-light border rounded-circle hw-18" data-toggle="popover" role="button" data-trigger="hover" data-placement="top" data-content="Volume máxinmo mensal">?</span>
                                     </th>
-                                    <td class="text-center">30</td>
+                                    
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -570,7 +491,7 @@ include "head.php";
                                     <th class="font-weight-normal" scope="row">Painéis (Dashboards)
                                     <span class="badge badge-light border rounded-circle hw-18" data-toggle="popover" role="button" data-trigger="hover" data-placement="top" data-content="Quantidade de painéis por fluxo">?</span>
                                     </th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center">1</td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -580,7 +501,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Workspaces</th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center">3</td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -588,7 +509,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Registros por cadastro</th>
-                                    <td class="text-center">500</td>
+                                    
                                     <td class="text-center">3.000</td>
                                     <td class="text-center">20.000</td>
                                     <td class="text-center">100.000</td>
@@ -597,7 +518,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Conexões entre fluxos e/ou cadastros</th>
-                                    <td class="text-center">1 conexão</td>
+                                    
                                     <td class="text-center">10 conexões</td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -605,7 +526,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Armazenamento de arquivos</th>
-                                    <td class="text-center">3 GB</td>
+                                    
                                     <td class="text-center">30 GB</td>
                                     <td class="text-center">100 GB</td>
                                     <td class="text-center">Personalizado</td>
@@ -613,7 +534,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Visualizações customizáveis</th>
-                                    <td class="text-center">1 por fluxo</td>
+                                    
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -621,7 +542,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Páginas públicas</th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -629,7 +550,7 @@ include "head.php";
 
                                 <tr class="border-top border-bottom bg-light">
                                     <th scope="row" class="h6 py-3 font-weight-semibold border-0 mb-0">Automações e Integrações</th>
-                                    <td class="py-3 border-0"></td>
+                                    
                                     <td class="py-3 border-0"></td>
                                     <td class="py-3 border-0"></td>
                                     <td class="py-3 border-0"></td>
@@ -639,7 +560,7 @@ include "head.php";
                                     <th class="font-weight-normal" scope="row">Condicionais de etapa ou formulários
                                         <span class="badge badge-light border rounded-circle hw-18" data-toggle="popover" role="button" data-trigger="hover" data-placement="top" data-content="Volume de regras possíveis">?</span>
                                     </th>
-                                    <td class="text-center">Até 3 regras</span></td>
+                                    
                                     <td class="text-center">Até 50 regras</span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -649,7 +570,7 @@ include "head.php";
                                     <th class="font-weight-normal" scope="row">Autocompletar campos
                                         <span class="badge badge-light border rounded-circle hw-18" data-toggle="popover" role="button" data-trigger="hover" data-placement="top" data-content="Volume de regras possíveis">?</span>
                                     </th>
-                                    <td class="text-center">Até 3 regras</span></td>
+                                    
                                     <td class="text-center">Até 50 regras</span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -657,7 +578,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Campos customizáveis</th>
-                                    <td class="text-center"><span class="say-yes"></td>
+                                    
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -665,7 +586,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Execuções de automação</th>
-                                    <td class="text-center">Até 50</td>
+                                    
                                     <td class="text-center">Até 300</td>
                                     <td class="text-center">Até 5.000</td>
                                     <td class="text-center">Personalizado</span></td>
@@ -683,7 +604,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Integrações via API</th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center">-</td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -691,7 +612,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Envio e recebimento de e-mails</th>
-                                    <td class="text-center">Até 5</td>
+                                    
                                     <td class="text-center">Até 200</td>
                                     <td class="text-center">Até 500</td>
                                     <td class="text-center">Personalizado</span></td>
@@ -699,7 +620,7 @@ include "head.php";
 
                                 <tr class="border-top border-bottom bg-light">
                                     <th scope="row" class="h6 py-3 font-weight-semibold border-0 mb-0">Colaboração</th>
-                                    <td class="py-3 border-0"></td>
+                                    
                                     <td class="py-3 border-0"></td>
                                     <td class="py-3 border-0"></td>
                                     <td class="py-3 border-0"></td>
@@ -707,7 +628,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Comentários</th>
-                                    <td class="text-center"><span class="say-yes"></span></td>
+                                    
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -715,7 +636,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Notificações</th>
-                                    <td class="text-center"><span class="say-yes"></span></td>
+                                    
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -723,7 +644,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Controle de prazo</th>
-                                    <td class="text-center"><span class="say-yes"></span></td>
+                                    
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -731,7 +652,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Caixa de e-mail do fluxo e cartões</th>
-                                    <td class="text-center"><span class="say-yes"></span></td>
+                                    
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -739,7 +660,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Horas trabalhadas</th>
-                                    <td class="text-center">-</span></td>
+                                    
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
                                     <td class="text-center"><span class="say-yes"></span></td>
@@ -749,7 +670,7 @@ include "head.php";
                                     <th class="font-weight-normal" scope="row">Painel de Insights
                                     <span class="badge badge-light border rounded-circle hw-18" data-toggle="popover" role="button" data-trigger="hover" data-placement="top" data-content="Visão de produtividade, custo e receita gerada">?</span>
                                     </th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center">-</td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -758,7 +679,7 @@ include "head.php";
 
                                 <tr class="border-top border-bottom bg-light">
                                     <th scope="row" class="h6 py-3 font-weight-semibold border-0 mb-0">Visualizações e Relatórios</th>
-                                    <td class="py-3 border-0"></td>
+                                    
                                     <td class="py-3 border-0"></td>
                                     <td class="py-3 border-0"></td>
                                     <td class="py-3 border-0"></td>
@@ -766,7 +687,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Visualização em Lista</th>
-                                    <td class="text-center"><span class="say-yes"></td>
+                                    
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -774,7 +695,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Visualização em Kanban</th>
-                                    <td class="text-center"><span class="say-yes"></td>
+                                    
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -782,7 +703,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Visualização em Calendário</th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -790,7 +711,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Painel (Dashboards)</th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -798,7 +719,7 @@ include "head.php";
 
                                 <tr>
                                     <th class="font-weight-normal" scope="row">Exportação para CSV e Excel</th>
-                                    <td class="text-center">-</td>
+                                    
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
                                     <td class="text-center"><span class="say-yes"></td>
@@ -808,9 +729,7 @@ include "head.php";
 
                                 <tr class="text-center bg-white">
                                     <th scope="col"></th>
-                                    <th scope="col" class="text-center text-nowrap">
-                                        <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-white btn-sm waves-effect mt-3" role="button">Comece agora</a>
-                                    </th>
+                                    
                                     <th scope="col" class="text-center text-nowrap">
                                         <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-white btn-sm waves-effect mt-3" role="button">7 dias grátis</a>
                                     </th>
