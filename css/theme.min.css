@@ -22612,3 +22612,15 @@ nav.header-sticky {
 	color: #9e4bed;
 	/* Roxo */
 }
+
+.card-ui {
+    background: #ffffff;
+    border: 1px solid #f0f0f0; /* cinza bem claro */
+    border-radius: 16px;
+
+    box-shadow:
+        0 4px 12px rgba(0, 0, 0, 0.04),
+        0 1px 3px rgba(0, 0, 0, 0.06);
+
+    padding: 24px;
+}

@@ -32,7 +32,7 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-between mb-5 mb-lg-8">
                         <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0 text-center text-lg-left">
-                            <div class="badge badge-soft-primary badge-pill px-2 py-1 mb-3" data-aos="fade-up">Execution over improvisation</div>
+                            <div class="badge badge-soft-primary badge-pill px-2 py-1 mb-3" data-aos="fade-up">100% customizável com no-code</div>
                             <h1 class="font-weight-bold mb-4" data-aos="fade-up" data-aos-delay="50">Organize e execute processos críticos <br><span class="text-primary">De ponta a ponta</span></h1>
                             <p class="lead text-muted" data-aos="fade-up" data-aos-delay="100">Automação, no-code e Agentes de IA para empresas que precisam escalar com controle</p>
 
@@ -44,7 +44,7 @@
                         </div>
 
                         <div class="col-lg-6">
-                            <div class="hero-img-group-1 text-center">
+                            <div class="hero-img-group-1 card-ui text-center">
                             <video 
                                 autoplay 
                                 loop 
@@ -52,7 +52,7 @@
                                 playsinline
                                 class="embed-responsive embed-responsive-21by9">
                                 
-                                <source src="./images/home/home.mp4" type="video/mp4">
+                                <source src="./images/home/video_intro_1.mp4" type="video/mp4">
                                 
                                 Seu navegador não suporta vídeos HTML5.
                                 </video>
@@ -62,22 +62,22 @@
                         
                         <div class="row row-cols-2 row-cols-sm-3 row-cols-lg-6 justify-content-center text-center">
                         <div class="col my-3" data-aos="fade-up" data-aos-delay="50">
-                            <img src="./images/home/crisdu_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                            <img src="./images/home/logo-grupo-crisdu.svg" style="width: 120px; height: auto;" alt="">
                         </div>
                         <div class="col my-3" data-aos="fade-up" data-aos-delay="100">
-                            <img src="./images/home/bbs_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                            <img src="./images/home/logo-bbs.svg" style="width: 120px; height: auto;" alt="">
                         </div>
                         <div class="col my-3" data-aos="fade-up" data-aos-delay="150">
-                            <img src="./images/home/auxiliadora_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                            <img src="./images/home/logo-auxiliadora.svg" style="width: 120px; height: auto;" alt="">
                         </div>
                         <div class="col my-3" data-aos="fade-up" data-aos-delay="200">
-                            <img src="./images/home/killing_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                            <img src="./images/home/logo-killing.svg" style="width: 120px; height: auto;" alt="">
                         </div>
                         <div class="col my-3" data-aos="fade-up" data-aos-delay="250">
-                            <img src="./images/home/gateware_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                            <img src="./images/home/logo-grupo-gateware.svg" style="width: 120px; height: auto;" alt="">
                         </div>
                         <div class="col my-3" data-aos="fade-up" data-aos-delay="300">
-                            <img src="./images/home/docile_monocromatico.png" style="width: 120px; height: auto;" alt="">
+                            <img src="./images/home/logo-docile.svg" style="width: 120px; height: auto;" alt="">
                         </div>
                     </div>
                 </div>
