@@ -1,6 +1,10 @@
 # Enable the rewrite engine
 RewriteEngine On
 
+# Clean URL: /hannover2026 (no .php) — matches canonical
+RewriteRule ^hannover2026$  /hannover2026.php [L]
+RewriteRule ^hannover2026/$ /hannover2026.php [L]
+
 # Remove .html extension from URLs (including subfolders)
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^([a-zA-Z0-9/_-]+)$ $1.html [L]

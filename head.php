@@ -19,17 +19,17 @@
 
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicons/favicon-16x16.png">
-    <link rel="shortcut icon" href="images/favicons/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="180x180" href="<?= isset($base_path) ? $base_path : './' ?>images/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="<?= isset($base_path) ? $base_path : './' ?>images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="<?= isset($base_path) ? $base_path : './' ?>images/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" href="<?= isset($base_path) ? $base_path : './' ?>images/favicons/favicon.ico" type="image/x-icon" />
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="images/favicons/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="<?= isset($base_path) ? $base_path : './' ?>images/favicons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="./fonts/favland.min.css">
-    <link href="./css/theme.min.css" rel=stylesheet>
+    <link rel="stylesheet" href="<?= isset($base_path) ? $base_path : './' ?>fonts/favland.min.css">
+    <link href="<?= isset($base_path) ? $base_path : './' ?>css/theme.min.css" rel=stylesheet>
 
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCRCMY3VY2"></script>

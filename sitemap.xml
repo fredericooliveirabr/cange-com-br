@@ -20,4 +20,10 @@
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
-</urlset> 
+    <url>
+        <loc>https://www.cange.com.br/hannover2026</loc>
+        <lastmod>2026-03-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+</urlset>
