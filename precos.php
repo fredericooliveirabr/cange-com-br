@@ -340,7 +340,7 @@ include "head.php";
                                         <h3 class="h1 font-weight-bold">Custom</h3>
                                         <p>Mínimo 10 usuários</p>
                                         <p>Valor por usuário</p>
-                                        <button class="btn btn-white waves-effect my-5" onclick="window.location.href='https://wa.me/551151948185'">Fale com vendas</button>
+                                        <button class="btn btn-white waves-effect my-5" onclick="window.location.href='https://wa.me/555121600946'">Fale com vendas</button>
 
                                     </div>
                                 </div>
@@ -449,7 +449,7 @@ include "head.php";
                                     <th scope="col" class="text-center text-nowrap">
                                         <div class="h4 font-weight-bold mb-0">Enterprise</div>
                                         <p class="font-weight-normal text-muted">Custom<br>Mínimo 10 users</p>
-                                        <a href="https://wa.me/551151948185" class="btn btn-white btn-sm waves-effect mt-3" role="button">Falar com vendas</a>
+                                        <a href="https://wa.me/555121600946" class="btn btn-white btn-sm waves-effect mt-3" role="button">Falar com vendas</a>
                                     </th>
                                 </tr>
                             </thead>
@@ -737,7 +737,7 @@ include "head.php";
                                         <a href="https://app.cange.me/onboarding/newsite-button-header?&src=null-null-null-null-null" class="btn btn-primary btn-sm waves-effect mt-3" role="button">7 dias grátis</a>
                                     </th>
                                     <th scope="col" class="text-center text-nowrap">
-                                        <a href="https://wa.me/551151948185" class="btn btn-white btn-sm waves-effect mt-3" role="button">Falar com vendas</a>
+                                        <a href="https://wa.me/555121600946" class="btn btn-white btn-sm waves-effect mt-3" role="button">Falar com vendas</a>
                                     </th>
                                 </tr>
                             </tbody>

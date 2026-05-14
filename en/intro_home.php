@@ -13,7 +13,7 @@
                                 <a href="https://app.cange.me/onboarding" class="btn btn-primary waves-effect hover-lift mx-2 mb-2 mb-sm-0" data-aos="fade-up" data-aos-delay="100">Try now</a>
                             
 
-                                <a href="https://wa.me/551151948185" class="btn btn-white hover-lift mx-2 waves-effect" data-aos="fade-up" data-aos-delay="150">Talk to sales</a>
+                                <a href="https://wa.me/555121600946" class="btn btn-white hover-lift mx-2 waves-effect" data-aos="fade-up" data-aos-delay="150">Talk to sales</a>
                             </div>
                         </div>
 
