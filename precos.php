@@ -518,7 +518,7 @@ include "nav.php";
                                         <p data-i18n="pricing.enterprise_users">Mínimo 10 usuários</p>
                                         <p data-i18n="pricing.per_user">Valor por usuário</p>
                                         <button class="btn btn-white waves-effect my-5"
-                                            onclick="window.location.href='https://wa.me/551151948185'"
+                                            onclick="window.location.href='https://wa.me/555121600946'"
                                             data-i18n="pricing.contact_sales">Fale com
                                             vendas</button>
 
@@ -688,7 +688,7 @@ include "nav.php";
                                         <p class="font-weight-normal text-muted"><span
                                                 data-i18n="pricing.custom">Custom</span><br><span
                                                 data-i18n="pricing.enterprise_users">Mínimo 10 users</span></p>
-                                        <a href="https://wa.me/551151948185"
+                                        <a href="https://wa.me/555121600946"
                                             class="btn btn-white btn-sm waves-effect mt-3" role="button"
                                             data-i18n="pricing.talk_to_sales">Falar com
                                             vendas</a>
@@ -1064,7 +1064,7 @@ include "nav.php";
                                             grátis</a>
                                     </th>
                                     <th scope="col" class="text-center text-nowrap">
-                                        <a href="https://wa.me/551151948185"
+                                        <a href="https://wa.me/555121600946"
                                             class="btn btn-white btn-sm waves-effect mt-3" role="button"
                                             data-i18n="pricing.talk_to_sales">Falar com
                                             vendas</a>

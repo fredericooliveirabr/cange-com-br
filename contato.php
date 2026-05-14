@@ -287,7 +287,7 @@ include "nav.php";
                                 passos e
                                 começar a trabalhar juntos?</p>
                             <a class="font-weight-semibold btn btn-white light-shadow"
-                                href="https://wa.me/551151948185">+55
+                                href="https://wa.me/555121600946">+55
                                 (11) 5194-8185</a>
                         </div>
 
