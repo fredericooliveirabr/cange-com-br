@@ -11,7 +11,7 @@
             <img class="img-fluid" src="<?= isset($base_path) ? $base_path : './'?>images/logos/cange_logo.png"
                 alt="Cange">
         </a>
-        <button class="btn btn-danger btn-sm d-lg-none">Sign Up</button>
+        <a href="https://app.cange.me/onboarding" class="btn btn-standard btn-sm d-lg-none border-0 waves-effect" data-i18n="cta.test_now">Teste agora</a>
 
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -73,10 +73,19 @@
                         <span data-i18n="nav.contact">Contato</span>
                     </a>
                 </li>
+
+                <!-- CTAs mobile -->
+                <li class="nav-item d-lg-none mt-3 px-3 pb-2">
+                    <div class="d-flex flex-column gap-2">
+                        <a href="https://app.cange.me/" class="btn btn-white btn-sm border waves-effect mb-2" data-i18n="nav.enter">Entrar</a>
+                        <a href="https://app.cange.me/onboarding" class="btn btn-standard btn-sm border-0 waves-effect mb-2" data-i18n="cta.test_now">Teste agora</a>
+                        <a href="https://wa.me/555121600946" class="btn btn-outline-primary btn-sm waves-effect"><img src="<?= isset($base_path) ? $base_path : './'?>images/icons/whatsapp-icon.png" alt="WhatsApp" style="width: 18px; height: 18px; margin-right: 6px;"><span data-i18n="cta.schedule_demo">Agendar demo</span></a>
+                    </div>
+                </li>
             </ul>
 
             <!-- Language Selector -->
-            <div class="dropdown d-none d-lg-inline-block mr-2">
+            <div class="dropdown d-inline-block mr-2">
                 <a class="nav-link dropdown-toggle text-dark" href="#" id="languageDropdown" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <i class="fas fa-globe"></i> <span id="current-lang-label-basic">PT</span>
